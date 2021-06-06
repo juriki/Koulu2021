@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{F8665E92-DB4F-4DB2-AD22-5D6D5AC55ECD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestProjejcCsharp/Program.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="TestProjejcCsharp/Program.cs" Line="1" Column="1" />
+      <File FileName="TestProjejcCsharp/Program.cs" Line="15" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/TestProjejcCsharp.csproj": {}
+    "/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/TestProjejcCsharp.csproj": {}
   },
   "projects": {
-    "/Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/TestProjejcCsharp.csproj": {
+    "/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/TestProjejcCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/TestProjejcCsharp.csproj",
+        "projectUniqueName": "/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/TestProjejcCsharp.csproj",
         "projectName": "TestProjejcCsharp",
-        "projectPath": "/Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/TestProjejcCsharp.csproj",
+        "projectPath": "/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/TestProjejcCsharp.csproj",
         "packagesPath": "/Users/jurijtokvin/.nuget/packages/",
-        "outputPath": "/Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/obj/",
+        "outputPath": "/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jurijtokvin/.config/NuGet/NuGet.Config"

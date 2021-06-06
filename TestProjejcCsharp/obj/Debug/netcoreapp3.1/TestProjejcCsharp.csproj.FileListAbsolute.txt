@@ -22,3 +22,15 @@
 /Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.dll
 /Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.pdb
 /Users/jurijtokvin/projects/TestProjejcCsharp/Koulu2021/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.genruntimeconfig.cache
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/bin/Debug/netcoreapp3.1/TestProjejcCsharp.deps.json
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/bin/Debug/netcoreapp3.1/TestProjejcCsharp.runtimeconfig.json
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/bin/Debug/netcoreapp3.1/TestProjejcCsharp.runtimeconfig.dev.json
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/bin/Debug/netcoreapp3.1/TestProjejcCsharp.dll
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/bin/Debug/netcoreapp3.1/TestProjejcCsharp.pdb
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.csprojAssemblyReference.cache
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.AssemblyInfoInputs.cache
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.AssemblyInfo.cs
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.csproj.CoreCompileInputs.cache
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.dll
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.pdb
+/Users/jurijtokvin/projects/helloworld/TestProjejcCsharp/obj/Debug/netcoreapp3.1/TestProjejcCsharp.genruntimeconfig.cache
