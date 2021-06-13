@@ -42,7 +42,7 @@ namespace TestProjejcCsharp
             DateTime tanaan = DateTime.Now;
             string tervehdys;
             string nimi;
-            int ika = 0;
+            int ika;
             string postinum;
             string osoite;
             string toimipaikka;
@@ -63,7 +63,7 @@ namespace TestProjejcCsharp
 
                 sukupuoli = sukupuoli.ToLower();
 
-                if (sukupuoli == "mies" ||sukupuoli == "m")
+                if (sukupuoli == "mies" || sukupuoli == "m")
                 {
                     Console.WriteLine("Mitä jäbä duunaa?");
                     break;
@@ -98,7 +98,7 @@ namespace TestProjejcCsharp
                 Console.Write("Anna sähköposti osoite :");
                 email = Console.ReadLine();
                 int strLen = email.Length;
-                if(symbol_chek(email, '@', strLen))
+                if (symbol_chek(email, '@', strLen))
                 {
                     break;
                 }
@@ -122,13 +122,12 @@ namespace TestProjejcCsharp
             }
 
 
-            tervehdys = "Päivä " + nimi + " ! olet " + ika.ToString() + " vuotias";
+            //tervehdys = "Päivä " + nimi + " ! olet " + ika.ToString() + " vuotias";
 
-            Console.WriteLine(tervehdys + ikaluokitus);
-            Console.WriteLine("Osoittetieddot ovat...........");
-            Console.WriteLine(osoite);
-            Console.WriteLine(postinum);
-            Console.WriteLine(toimipaikka);
+            Console.WriteLine("\n" + nimi+ "\tPuhelin " + puh);
+            Console.WriteLine("Osoite \t\t" + osoite);
+            Console.WriteLine(postinum +"\t\t" +toimipaikka);
+            Console.WriteLine("Sähköpoisti\t" + email);
         }
     }
 }
